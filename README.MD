@@ -2,7 +2,7 @@
 
 ¡Bienvenido a mi perfil profesional! 😎
 
-## 📫 Contacto
+##  Contacto:
 
 - **Correo:** manuel.aguirre4116.dev@gmail.com  
 - **LinkedIn:** [linkedin.com/in/manuel-aguirre-dev](https://linkedin.com/in/manuel-aguirre-dev)  
