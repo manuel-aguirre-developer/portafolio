@@ -211,10 +211,10 @@ document.querySelectorAll('.social-link').forEach(link => {
 
         switch (this.id) {
             case 'linkedin':
-                window.open('https://www.linkedin.com/in/manuel-aguirre-4116-dev/', '_blank');
+                window.open('https://www.linkedin.com/in/manuel-aguirre-developer/', '_blank');
                 break;
             case 'github':
-                window.open('https://github.com/manuel-aguirre-dev', '_blank');
+                window.open('https://github.com/manuel-aguirre-developer', '_blank');
                 break;
             case 'instagram':
                 window.open('https://www.instagram.com/_aguirre_manuel_/', '_blank');
